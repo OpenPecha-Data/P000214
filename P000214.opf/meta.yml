@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000214
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དག་སྣང་སྤྲུལ་པའི་གླེགས་བམ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-09
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-SHAP-09
 web_metadata:
   title:
     en: The Book of Emanated Scriptures of Pure Vision
